@@ -16,7 +16,7 @@ function App() {
 }
 
 const AppSection = styled.section`
-  max-width: 1400px;
+  max-width: 100%;
   min-height: 100vh;
 `;
 

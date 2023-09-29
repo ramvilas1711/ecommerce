@@ -85,7 +85,7 @@ const Header = () => {
 };
 
 const HeaderSection = styled.section`
-  max-width: 1400px;
+  max-width: 100%;
   background-color: #1a1a1a;
 
   .parentDiv {
